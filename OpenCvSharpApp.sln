@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchTemplate", "MatchTemplate\MatchTemplate.csproj", "{8C74C370-155F-456F-97DD-64B652C356FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Debug|x64.ActiveCfg = Debug|x64
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Debug|x64.Build.0 = Debug|x64
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Release|x64.ActiveCfg = Release|x64
+		{8C74C370-155F-456F-97DD-64B652C356FA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47132974-9B55-4468-9A11-17CF663741D7}
+	EndGlobalSection
+EndGlobal
